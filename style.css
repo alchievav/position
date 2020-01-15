@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #af2024;
+    height: 40px;
+}
+
+.background {
+    background-image: url(img/pizza-background.png);
+    height: 820px;
+    width: 100%;
+}
+
+.container {
+    max-width: 860px;
+    margin: 0 auto;
+}
